@@ -116,5 +116,4 @@ distanceForMeleeAttack = GetComponent<AIStateManager>().meleeAttackDistance;
 
 }
 
-
 }
