@@ -60,5 +60,5 @@ class KinematicMovement
    {
       return rotational_velocity;
    }
-   // End public methods
+   
 }
